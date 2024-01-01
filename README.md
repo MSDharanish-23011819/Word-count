@@ -28,6 +28,7 @@ splitting.
 End the program.
 
 ## PROGRAM:
+```
 #Program to find the number of words in a txt file.
 #Developed by: MS Dharanish
 #Reg no:212223240027
@@ -37,6 +38,7 @@ for i in f1:
 word=i.split()
 num+=len(word)
 print("The number of words in the file is ",num)
+```
 
 ### OUTPUT:
 ![output 1](https://github.com/MSDharanish-23011819/Word-count/assets/147139454/660a0838-53fc-4ac9-87a3-2de2a5c44714)
